@@ -1,0 +1,210 @@
+{
+    "categories": [
+      {
+        "category": "Analgesics",
+        "medicines": [
+          {
+            "name": "Paracetamol",
+            "price": 5.99,
+            "image": "/tablets.jpg",
+            "alt": "Paracetamol"
+          },
+          {
+            "name": "Ibuprofen",
+            "price": 7.49,
+            "image": "/tablets.jpg",
+            "alt": "Ibuprofen"
+          },
+          {
+            "name": "Aspirin",
+            "price": 6.25,
+            "image": "/tablets.jpg",
+            "alt": "Aspirin"
+          },
+          {
+            "name": "Diclofenac",
+            "price": 8.99,
+            "image": "/tablets.jpg",
+            "alt": "Diclofenac"
+          },
+          {
+            "name": "Nimesulide",
+            "price": 5.75,
+            "image": "/tablets.jpg",
+            "alt": "Nimesulide"
+          },
+          {
+            "name": "Ketorolac",
+            "price": 9.50,
+            "image": "/tablets.jpg",
+            "alt": "Ketorolac"
+          }
+        ]
+      },
+      {
+        "category": "Antibiotics",
+        "medicines": [
+          {
+            "name": "Amoxicillin",
+            "price": 10.99,
+            "image": "/tablets.jpg",
+            "alt": "Amoxicillin"
+          },
+          {
+            "name": "Ciprofloxacin",
+            "price": 12.49,
+            "image": "/tablets.jpg",
+            "alt": "Ciprofloxacin"
+          },
+          {
+            "name": "Doxycycline",
+            "price": 15.75,
+            "image": "/tablets.jpg",
+            "alt": "Doxycycline"
+          },
+          {
+            "name": "Azithromycin",
+            "price": 14.25,
+            "image": "/tablets.jpg",
+            "alt": "Azithromycin"
+          },
+          {
+            "name": "Metronidazole",
+            "price": 9.99,
+            "image": "/tablets.jpg",
+            "alt": "Metronidazole"
+          },
+          {
+            "name": "Clindamycin",
+            "price": 11.50,
+            "image": "/tablets.jpg",
+            "alt": "Clindamycin"
+          }
+        ]
+      },
+      {
+        "category": "Vitamins",
+        "medicines": [
+          {
+            "name": "Vitamin C",
+            "price": 8.50,
+            "image": "/tablets.jpg",
+            "alt": "Vitamin C"
+          },
+          {
+            "name": "Vitamin D",
+            "price": 9.75,
+            "image": "/tablets.jpg",
+            "alt": "Vitamin D"
+          },
+          {
+            "name": "Vitamin B Complex",
+            "price": 12.00,
+            "image": "/tablets.jpg",
+            "alt": "Vitamin B Complex"
+          },
+          {
+            "name": "Multivitamin",
+            "price": 10.50,
+            "image": "/tablets.jpg",
+            "alt": "Multivitamin"
+          },
+          {
+            "name": "Biotin",
+            "price": 7.99,
+            "image": "/tablets.jpg",
+            "alt": "Biotin"
+          },
+          {
+            "name": "Folic Acid",
+            "price": 6.99,
+            "image": "/tablets.jpg",
+            "alt": "Folic Acid"
+          }
+        ]
+      },
+      {
+        "category": "Antihistamine",
+        "medicines": [
+          {
+            "name": "Loratadine",
+            "price": 6.99,
+            "image": "/tablets.jpg",
+            "alt": "Loratadine"
+          },
+          {
+            "name": "Cetirizine",
+            "price": 7.49,
+            "image": "/tablets.jpg",
+            "alt": "Cetirizine"
+          },
+          {
+            "name": "Fexofenadine",
+            "price": 8.99,
+            "image": "/tablets.jpg",
+            "alt": "Fexofenadine"
+          },
+          {
+            "name": "Chlorpheniramine",
+            "price": 5.99,
+            "image": "/tablets.jpg",
+            "alt": "Chlorpheniramine"
+          },
+          {
+            "name": "Diphenhydramine",
+            "price": 6.49,
+            "image": "/tablets.jpg",
+            "alt": "Diphenhydramine"
+          },
+          {
+            "name": "Levocetirizine",
+            "price": 7.99,
+            "image": "/tablets.jpg",
+            "alt": "Levocetirizine"
+          }
+        ]
+      },
+      {
+        "category": "Antihypertensive",
+        "medicines": [
+          {
+            "name": "Amlodipine",
+            "price": 9.99,
+            "image": "/tablets.jpg",
+            "alt": "Amlodipine"
+          },
+          {
+            "name": "Lisinopril",
+            "price": 11.50,
+            "image": "/tablets.jpg",
+            "alt": "Lisinopril"
+          },
+          {
+            "name": "Losartan",
+            "price": 12.75,
+            "image": "/tablets.jpg",
+            "alt": "Losartan"
+          },
+          {
+            "name": "Hydrochlorothiazide",
+            "price": 6.99,
+            "image": "/tablets.jpg",
+            "alt": "Hydrochlorothiazide"
+          },
+          {
+            "name": "Ramipril",
+            "price": 13.00,
+            "image": "/tablets.jpg",
+            "alt": "Ramipril"
+          },
+          {
+            "name": "Verapamil",
+            "price": 14.50,
+            "image": "/tablets.jpg",
+            "alt": "Verapamil"
+          }
+        ]
+      }
+    ]
+  }
+  
