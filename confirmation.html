@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Order Confirmation</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #1a1a2e;
+        color: #fff;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        flex-direction: column;
+      }
+
+      .confirmation-container {
+        background-color: #333;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+        width: 80%;
+        max-width: 500px;
+        text-align: center;
+      }
+
+      h1 {
+        font-size: 32px;
+        margin-bottom: 20px;
+        color: #e3e3e3;
+      }
+
+      p {
+        font-size: 18px;
+        margin-bottom: 10px;
+      }
+
+      .confirmation-details {
+        background-color: #444;
+        padding: 10px;
+        border-radius: 6px;
+        margin-bottom: 20px;
+      }
+
+      .order-summary {
+        text-align: left;
+        margin: 20px 0;
+      }
+
+      .order-summary p {
+        margin: 8px 0;
+      }
+
+      .order-summary .total {
+        font-weight: bold;
+        font-size: 20px;
+        margin-top: 10px;
+        color: #ffa500;
+      }
+
+      button {
+        background-color: #4caf50;
+        color: white;
+        border: none;
+        padding: 15px 32px;
+        font-size: 16px;
+        cursor: pointer;
+        border-radius: 6px;
+        transition: background-color 0.3s ease;
+      }
+
+      button:hover {
+        background-color: #45a049;
+      }
+
+      .back-btn {
+        background-color: #f44336;
+        margin-top: 10px;
+      }
+
+      .back-btn:hover {
+        background-color: #e53935;
+      }
+
+      .footer {
+        position: absolute;
+        bottom: 10px;
+        color: #888;
+        font-size: 14px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="confirmation-container">
+      <h1>Order Confirmed!</h1>
+      <p>Thank you for your purchase.</p>
+
+      <button onclick="window.location.href='order.html'">Back to Order</button>
+    </div>
+
+    <div class="footer">
+      <p>© 2024 Your Company</p>
+    </div>
+  </body>
+</html>
